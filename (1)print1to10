@@ -1,0 +1,15 @@
+
+var a = 0;
+
+    while ( a < 10){
+        a++
+        console.log(a)
+        }  // Minha solução
+
+//////////////////////////////////////////////////////////////////
+
+
+    for(var a = 1; a <= 10; a++)
+        {
+            console.log(a);
+        } // Sugerida
